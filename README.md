@@ -1,1 +1,3 @@
-# gopalgoel.github.io
+# My personal website.
+
+visit: http://gopalgoel.github.io
