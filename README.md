@@ -1,3 +1,3 @@
 # My personal website.
 
-visit: http://gopalgoel.github.io
+visit: http://jadavpurit.github.io
