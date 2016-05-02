@@ -33,6 +33,10 @@
     color: #80DEEA;
 }
 
+.navbar-default .navbar-nav .active{
+    color: #80DEEA;
+}
+
 .jumbotron{
   background-color: #E0F7FA;
 }
