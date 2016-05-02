@@ -33,3 +33,22 @@
     color: #80DEEA;
 }
 
+.jumbotron{
+  background-color: #E0F7FA;
+}
+
+body{
+  background-color: #E0F7FA
+}
+
+.container > h1{
+  color: #00BCD4;
+}
+
+.container > ul > li > a{
+  color: #00ACC1
+}
+.container .para{
+  font-size: 25px;
+  color: #00BCD4;
+}
