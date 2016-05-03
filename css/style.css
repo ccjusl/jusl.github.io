@@ -1,7 +1,7 @@
 .navbar-default{
-  	background-color: #00BCD4;
+  	background-color: #2c3e50;
   	padding: 10px;
-
+    margin: 0px;
  }
 .navbar-default .navbar-brand{
 	color: #FFFFFF;
@@ -13,7 +13,7 @@
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #80DEEA;
+    background-color: #18bc9c;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #FFFFFF;
@@ -21,7 +21,7 @@
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus{
-	color: #80DEEA;
+	color: #18bc9c;
 }
 
 .navbar-default .navbar-nav > li > a{
@@ -30,29 +30,62 @@
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #80DEEA;
+    color: #18bc9c;
 }
 
 .navbar-default .navbar-nav .active{
-    color: #80DEEA;
+    color: #18bc9c;
 }
 
 .jumbotron{
-  background-color: #E0F7FA;
+  margin-top: 70px;
+  margin-bottom: 10px;
+  height: 600px;
+  background-color: #18bc9c;
+  text-align: center;
+  color: white;
+}
+
+.jumbotron > p {
+  font-size: 50px;
+}
+
+.jumbotron .jm-small{
+  font-size: 20px;
+  margin-bottom: 20px;
 }
 
 body{
-  background-color: #E0F7FA
+  background-color: #E0F2F1;
+}
+
+a{
+  color: #2c3e50;
 }
 
 .container > h1{
-  color: #00BCD4;
+  color: #2c3e50;
 }
 
 .container > ul > li > a{
-  color: #00ACC1
+  color: #2c3e50
 }
 .container .para{
-  font-size: 25px;
-  color: #00BCD4;
+  font-size: 17px;
+  color: black;
+}
+
+.btn-action{
+  background-color: #F50057;
+  padding: 10px;
+  width: 150px;
+  color: white;
+  font-size: 19px;
+}
+
+.about{
+  margin-top: 100px;
+}
+.downloads{
+  margin-top: 100px;
 }
