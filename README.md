@@ -1,3 +1,3 @@
-# My personal website.
+# Educational website.
 
-visit: http://jadavpurit.github.io
+visit: http://jusl.github.io
