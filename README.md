@@ -1,3 +1,3 @@
 # Educational website.
 
-visit: http://jusl.github.io
+visit: http://jufet.github.io
