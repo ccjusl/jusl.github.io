@@ -89,3 +89,22 @@ a{
 .downloads{
   margin-top: 100px;
 }
+
+.downloads-col > a{
+  text-decoration: none;
+}
+
+.semester-icon > p{
+  height: 250px;
+  width: 250px;
+  background-color: #18bc9c;
+  border-radius: 250px;
+  padding-top: 110px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+}
