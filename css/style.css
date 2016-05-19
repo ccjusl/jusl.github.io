@@ -73,6 +73,7 @@ a{
 .container .para{
   font-size: 17px;
   color: black;
+  text-align: justify;
 }
 
 .btn-action{
@@ -83,9 +84,14 @@ a{
   font-size: 19px;
 }
 
-.about{
+.about-body{
+  margin-top: 70px;
+}
+
+.contact-body{
   margin-top: 100px;
 }
+
 .downloads{
   margin-top: 100px;
 }
@@ -112,3 +118,5 @@ a{
 .it-icon > p{
   padding-top: 90px;
 }
+
+
