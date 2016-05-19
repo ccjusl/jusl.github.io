@@ -108,3 +108,7 @@ a{
   font-size: 25px;
   color: white;
 }
+
+.it-icon > p{
+  padding-top: 90px;
+}
